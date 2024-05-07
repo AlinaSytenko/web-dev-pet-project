@@ -1,2 +1,3 @@
 This is my first commit!
 check the name
+Here is my third line in the test.txt
